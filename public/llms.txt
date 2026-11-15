@@ -1,0 +1,27 @@
+# The Punjab Edit
+
+> The Punjab Edit is an independent editorial journal covering sport, fitness, everyday lifestyle and useful local stories across Chandigarh, Patiala and Nabha, Punjab, India.
+
+## About
+The site publishes practical, original articles intended to help readers explore local places, build sustainable habits and discover useful ideas. Articles should be read in their full context; local details can change and should be independently verified before acting on them.
+
+## Main sections
+- Sport & Outdoors
+- Fitness
+- Health & Lifestyle
+- Lifestyle & Local
+
+## Editorial principles
+- Prefer original reporting, firsthand experience and clearly attributed sources.
+- Verify local business details, event dates, prices and opening hours before publication.
+- Clearly disclose sponsorships, affiliate relationships and other material connections.
+- Correct factual errors and update articles when important information changes.
+- Do not treat general fitness or wellness articles as individual medical advice.
+
+## Important URLs
+- Home: https://your-domain.com/
+- Sitemap: https://your-domain.com/sitemap.xml
+- Robots: https://your-domain.com/robots.txt
+
+## Content usage
+This file is an optional guide for AI systems. It does not grant permission to reproduce copyrighted content, bypass access controls or ignore the site's terms.
