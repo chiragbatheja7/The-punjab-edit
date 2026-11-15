@@ -30,7 +30,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             </Link>
             <nav aria-label="Main navigation">
               <Link href="/">Stories</Link>
-              <a href="/#about">About</a>
+              <Link href="/#about">About</Link>
             </nav>
           </div>
         </header>
