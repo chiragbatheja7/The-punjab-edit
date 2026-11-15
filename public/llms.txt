@@ -19,9 +19,9 @@ The site publishes practical, original articles intended to help readers explore
 - Do not treat general fitness or wellness articles as individual medical advice.
 
 ## Important URLs
-- Home: https://your-domain.com/
-- Sitemap: https://your-domain.com/sitemap.xml
-- Robots: https://your-domain.com/robots.txt
+- Home: https://the-punjab-edit.netlify.app
+- Sitemap: https://the-punjab-edit.netlify.app/sitemap.xml
+- Robots: https://the-punjab-edit.netlify.app/robots.txt
 
 ## Content usage
 This file is an optional guide for AI systems. It does not grant permission to reproduce copyrighted content, bypass access controls or ignore the site's terms.
